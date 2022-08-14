@@ -1,4 +1,4 @@
-A scraper to scrape data from zexprwire.com
+#A scraper to scrape data from zexprwire.com
 
 The task of this scraper is to grab latest and links to each news detail
 
